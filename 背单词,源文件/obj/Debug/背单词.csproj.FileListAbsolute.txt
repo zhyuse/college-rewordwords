@@ -1,0 +1,92 @@
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\bin\Debug\背单词.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.encourageword.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.loginpage.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.register.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\bin\Debug\背单词.exe
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\bin\Debug\背单词.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.exe
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.changepassword.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.review.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.dictionarycs.resources
+c:\users\administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.wrongwords.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.mainpage.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.UserControl1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.cet4.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.cet6.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.cet.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词\obj\Debug\背单词.wordsfill.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\bin\Debug\背单词.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\bin\Debug\背单词.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\bin\Debug\背单词.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.cet.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.cet4.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.cet6.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.changepassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.dictionarycs.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.encourageword.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.loginpage.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.mainpage.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.register.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.review.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.wordsfill.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.wrongwords.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\背单词\背单词,源文件\obj\Debug\背单词.yuanbutton.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\背单词.exe.config
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.exe
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.pdb
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\背单词.exe
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\背单词.pdb
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.cet.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.cet4.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.cet6.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.changepassword.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.dictionarycs.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.encourageword.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.loginpage.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.mainpage.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.register.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.review.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.wordsfill.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.wrongwords.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.yuanbutton.resources
+C:\Users\Administrator\Desktop\c#大作业\背单词,源文件\obj\Debug\背单词.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\背单词.exe.config
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.exe
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.pdb
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\背单词.exe
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\背单词.pdb
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.cet.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.cet4.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.cet6.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.changepassword.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.dictionarycs.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.encourageword.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.loginpage.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.mainpage.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.Properties.Resources.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.register.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.review.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.wordsfill.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.wrongwords.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.yuanbutton.resources
+C:\Users\Administrator\Desktop\41612234 钟雨森 可视化程序设计\背单词,源文件\obj\Debug\背单词.csproj.GenerateResource.Cache
